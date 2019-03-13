@@ -1,0 +1,15 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/org/.*
+- ./bin/org/sablecc/.*
+- ./bin/org/sablecc/sablecc/.*
+- ./bin/org/sablecc/sablecc/analysis/.*
+- ./bin/org/sablecc/sablecc/lexer/.*
+- ./bin/org/sablecc/sablecc/node/.*
+- ./bin/org/sablecc/sablecc/parser/.*
+- ./doc/.*
+- ./etc/.*
+- ./lib/.*
